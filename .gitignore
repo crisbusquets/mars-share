@@ -1,0 +1,49 @@
+# Ignore the .env file which contains sensitive data
+.env
+
+# Composer dependencies
+/vendor/
+composer.lock
+
+# Node modules - if you use Node.js in your project
+/node_modules/
+
+# Ignore system files and directories
+.DS_Store
+Thumbs.db
+
+# Ignore specific plugin related files that should not be in version control
+config.php
+
+# Ignore specific backup files
+*.bak
+*.swp
+*.tmp
+
+# Ignore logs
+*.log
+
+# Ignore cache
+/cache/
+/tmp/
+
+# PHP unit testing - if you use unit tests
+/phpunit.xml
+/phpunit.xml.dist
+/tests/
+
+# Ignore IDE and editor directories
+/.idea/
+/.vscode/
+
+# Ignore any exported databases or SQL files
+*.sql
+*.sql.gz
+
+# Ignore export scripts or temporary scripts
+/export/
+/scripts/
+
+# Any local configuration files
+/wp-config.php
+/wp-config-local.php
