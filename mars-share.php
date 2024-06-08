@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Social Media Scheduler
-Plugin URI: http://yourwebsite.com/social-media-scheduler
+Plugin Name: Mars Share
+Plugin URI: https://www.uifrommars.com
 Description: Automatically share and schedule posts to social media with unique messages.
 Version: 1.0
-Author: Your Name
-Author URI: http://yourwebsite.com
+Author: Cris Busquets
+Author URI: http://www.cbusquets.com
 */
 
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
